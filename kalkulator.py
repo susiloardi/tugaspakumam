@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Judul Aplikasi
-st.title("Aplikasi Multi-Fitur dengan Streamlit")
+st.title("Aplikasi Multi-Fitur")
 st.write("Terdapat 3 fitur: Kalkulator, Konversi Suhu, dan Deret Fibonacci")
 
 # Membuat menu navigasi
