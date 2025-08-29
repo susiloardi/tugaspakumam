@@ -2,7 +2,7 @@ import streamlit as st
 
 # Judul Aplikasi
 st.title("Aplikasi Multi-Fitur")
-st.write("Terdapat 3 fitur: Kalkulator, Konversi Suhu, dan Deret Fibonacci")
+st.write("Kalkulator, Konversi Suhu, dan Deret Fibonacci")
 
 # Membuat menu navigasi
 menu = st.sidebar.selectbox(
